@@ -10,3 +10,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/proff4_catalogs_web/
+/proff4_diplom/
+/proff4_example_web_clone/
+/proff4_notification_web/
+/proff4_spring_mvc1/
+/proff4_spring_mvc2/
+/proff4_spring_mvc3/
